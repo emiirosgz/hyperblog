@@ -34,3 +34,10 @@ body{
 #post{
     padding: 1em;
 }
+
+#footer{
+    background-color: silver;
+    text-align: center;
+    font-size: small;
+    color: darkslategrey;
+}
