@@ -38,11 +38,10 @@ body{
 #post{
     padding: 1em;
 }
-<<<<<<< HEAD
 #logo{
     max-width: 50px;
     vertical-align: middle;
-=======
+}
 
 #footer{
     background-color: silver;
@@ -50,5 +49,4 @@ body{
     font-size: small;
     color: darkslategrey;
     padding: 0.50em;
->>>>>>> footer
 }
