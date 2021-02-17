@@ -40,4 +40,5 @@ body{
 }
 #logo{
     max-width: 50px;
+    vertical-align: middle;
 }
